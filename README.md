@@ -1,5 +1,2 @@
-# Ola, Mundo!
-Repositorio Piloto
-repositorio criado durante aula de curso
-
-essa linha eu adicionei diretamente no site.
+# Aula Piloto de Git e GitHub
+## Apendendo `Markdown`
